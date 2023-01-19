@@ -59,14 +59,34 @@ public class main {
 //        System.out.println(test.sqr(50));
 //        System.out.println(test.sqr(142));
 
+//        System.out.println();
+//        Cat cat = new Cat();
+//        cat.getCat("Nik", 25);
+//
+//        System.out.println();
+//
+//        Cat cat1= new Cat();
+//        cat1.getCat("Boby",5);
+//
+//        System.out.println();
+//
+//        Cat cat3 =new Cat();
+//        cat3.getCat("Tisa",1);
 
-        Cat cat = new Cat();
-        cat.getCat("Nik", 25);
+
+        Rect rect = new Rect();
+        rect.getRect(25.69,12.5);
+
+        Rect rect1 =new Rect();
+        rect1.length=25.2;
+        rect1.width=14.5;
 
         System.out.println();
+//        System.out.println(rect1.ariaRect());;
+        rect1.getAria();
 
-        Cat cat1= new Cat();
-        cat1.getCat("Boby",5);
+
+
 
 
     }
