@@ -3,5 +3,4 @@ public class Person {
     int age;
     double weight;
 
-
 }
