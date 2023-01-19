@@ -46,9 +46,11 @@ public class main {
           Dik.name="Dik";
           Dik.breed="Такса";
           Dik.weight=25.36;
+          Dik.speed=5;
 
 
 //        System.out.println(Dik.getDog());
-        Dik.showDog();
+//        Dik.showDog();
+        Dik.ranDog();
     }
 }

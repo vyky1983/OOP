@@ -2,6 +2,7 @@ public class Dog {
 String name;
 String breed;
 double weight;
+int speed;
 
 String getDog(){
 //    String inf= "Name Dog --> "+ name+"\nBreed dog --> "+breed+"\nWeight Dog --> "+weight+"kg.";
@@ -11,6 +12,11 @@ String getDog(){
 
 void showDog(){
     System.out.println(getDog());
+}
+void ranDog(){
+    for(int i =0; i<speed; i++) {
+        System.out.println("Ran ");
+    }
 }
 }
 
