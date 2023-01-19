@@ -1,18 +1,18 @@
 public class main {
     public static void main(String[] args) {
-//        Box box = new Box();
-//        box.length = 10;
-//        box.height = 10;
-//        box.width = 10;
-//        double volume = box.height* box.width* box.length;
-//
-//        Box box1=new Box();
+        Box box = new Box();
+        box.setDim(10,10,10);
+
+
+
+        Box box1=new Box();
 //        box1.width=20;
 //        box1.height=20;
 //        box1.length=20;
-//        double volume1 = box1.height* box1.width* box1.length;
-//        box1.showBox();
-//        box.showBox();
+        box1.setDim(20,20,20);
+
+        box1.showBox();
+        box.showBox();
 
 
 
@@ -41,16 +41,28 @@ public class main {
 //        human4.weight = 25.20;
 //
 //        System.out.println((human4.age + human3.age + human2.age + human1.age) / 4f);
-
-          Dog Dik=new Dog();
-          Dik.name="Dik";
-          Dik.breed="Такса";
-          Dik.weight=25.36;
-          Dik.speed=5;
+//
+//          Dog Dik=new Dog();
+//          Dik.name="Dik";
+//          Dik.breed="Такса";
+//          Dik.weight=25.36;
+//          Dik.speed=5;
 
 
 //        System.out.println(Dik.getDog());
 //        Dik.showDog();
-        Dik.ranDog();
+//        Dik.ranDog();
+
+//        Test test= new Test();
+//
+//        System.out.println(test.sqr(20));
+//        System.out.println(test.sqr(50));
+//        System.out.println(test.sqr(142));
+
+
+
+
+
+
     }
 }
