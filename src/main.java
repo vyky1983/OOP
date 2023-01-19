@@ -1,18 +1,18 @@
 public class main {
     public static void main(String[] args) {
-        Box box = new Box();
-        box.setDim(10,10,10);
-
-
-
-        Box box1=new Box();
-//        box1.width=20;
-//        box1.height=20;
-//        box1.length=20;
-        box1.setDim(20,20,20);
-
-        box1.showBox();
-        box.showBox();
+//        Box box = new Box();
+//        box.setDim(10,10,10);
+//
+//
+//
+//        Box box1=new Box();
+////        box1.width=20;
+////        box1.height=20;
+////        box1.length=20;
+//        box1.setDim(20,20,20);
+//
+//        box1.showBox();
+//        box.showBox();
 
 
 
@@ -60,8 +60,13 @@ public class main {
 //        System.out.println(test.sqr(142));
 
 
+        Cat cat = new Cat();
+        cat.getCat("Nik", 25);
 
+        System.out.println();
 
+        Cat cat1= new Cat();
+        cat1.getCat("Boby",5);
 
 
     }
