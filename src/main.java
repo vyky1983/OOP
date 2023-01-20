@@ -21,28 +21,24 @@ public class main {
 //        Cat cat3 = new Cat("Liza", 5);
 //        cat3.showCat();
 
-//        Person human1 = new Person();
-//        human1.name = " Александр ";
-//        human1.age = 44;
-//        human1.weight = 82;
-//
-//        Person human2 = new Person();
-//        human2.name = "Veronika";
-//        human2.age = 39;
-//        human2.weight = 71.100;
-//
-//        Person human3 = new Person();
-//        human3.name = "Andreea";
-//        human3.age = 15;
-//        human3.weight = 65.2;
-//
-//        Person human4 = new Person();
-//        human4.name = "Alexandru";
-//        human4.age = 4;
-//        human4.weight = 25.20;
-//
-//        System.out.println((human4.age + human3.age + human2.age + human1.age) / 4f);
-//
+        Person human1 = new Person("Alexandru",44,78.2);
+        human1.showPerson();
+
+        System.out.println();
+        Person human2 = new Person("Veronica", 39,71.1);
+        human2.showPerson();
+
+        System.out.println();
+        Person human3 = new Person("Andreea",15,65.2);
+        human3.showPerson();
+
+        System.out.println();
+        Person human4 = new Person("Alex",4,25.3);
+        human4.showPerson();
+
+
+
+
 //          Dog Dik=new Dog();
 //          Dik.name="Dik";
 //          Dik.breed="Такса";
