@@ -1,10 +1,13 @@
 public class main {
     public static void main(String[] args) {
-        Box box = new Box(10, 10, 10);
-        Box box1 = new Box(20, 20, 20);
+//        Box box = new Box(10, 10, 10);
+//        Box box1 = new Box(20, 20, 20);
+//
+//        box.showBox();
+//        box1.showBox();
 
-        box.showBox();
-        box1.showBox();
+        Worker worker=new Worker("andy","director",125.25);
+        worker.showInfo();
 
 //        Person human1 = new Person();
 //        human1.name = " Александр ";
