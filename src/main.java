@@ -37,26 +37,17 @@ public class main {
 //        human4.showPerson();
 
 
+        Dog dik = new Dog("Dik", "Taxa", 6.3, 5);
+        dik.showDog();
+        System.out.println();
+        dik.ranDog();
 
-
-//          Dog Dik=new Dog();
-//          Dik.name="Dik";
-//          Dik.breed="Такса";
-//          Dik.weight=25.36;
-//          Dik.speed=5;
-
-
-//        System.out.println(Dik.getDog());
-//        Dik.showDog();
-//        Dik.ranDog();
 
 //        Test test= new Test();
 //
 //        System.out.println(test.sqr(20));
 //        System.out.println(test.sqr(50));
 //        System.out.println(test.sqr(142));
-
-
 
 
 //        Rect rect = new Rect();
