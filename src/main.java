@@ -21,20 +21,20 @@ public class main {
 //        Cat cat3 = new Cat("Liza", 5);
 //        cat3.showCat();
 
-        Person human1 = new Person("Alexandru",44,78.2);
-        human1.showPerson();
-
-        System.out.println();
-        Person human2 = new Person("Veronica", 39,71.1);
-        human2.showPerson();
-
-        System.out.println();
-        Person human3 = new Person("Andreea",15,65.2);
-        human3.showPerson();
-
-        System.out.println();
-        Person human4 = new Person("Alex",4,25.3);
-        human4.showPerson();
+//        Person human1 = new Person("Alexandru",44,78.2);
+//        human1.showPerson();
+//
+//        System.out.println();
+//        Person human2 = new Person("Veronica", 39,71.1);
+//        human2.showPerson();
+//
+//        System.out.println();
+//        Person human3 = new Person("Andreea",15,65.2);
+//        human3.showPerson();
+//
+//        System.out.println();
+//        Person human4 = new Person("Alex",4,25.3);
+//        human4.showPerson();
 
 
 
