@@ -37,10 +37,10 @@ public class main {
 //        human4.showPerson();
 
 
-        Dog dik = new Dog("Dik", "Taxa", 6.3, 5);
-        dik.showDog();
-        System.out.println();
-        dik.ranDog();
+//        Dog dik = new Dog("Dik", "Taxa", 6.3, 5);
+//        dik.showDog();
+//        System.out.println();
+//        dik.ranDog();
 
 
 //        Test test= new Test();
