@@ -1,24 +1,10 @@
 public class main {
     public static void main(String[] args) {
-//        Box box = new Box();
-//        box.setDim(10,10,10);
-//
-//
-//
-//        Box box1=new Box();
-////        box1.width=20;
-////        box1.height=20;
-////        box1.length=20;
-//        box1.setDim(20,20,20);
-//
-//        box1.showBox();
-//        box.showBox();
+        Box box = new Box(10, 10, 10);
+        Box box1 = new Box(20, 20, 20);
 
-
-
-
-//        System.out.println(volume);
-//        System.out.println(box1.height* box1.length* box1.width);
+        box.showBox();
+        box1.showBox();
 
 //        Person human1 = new Person();
 //        human1.name = " Александр ";
@@ -74,16 +60,16 @@ public class main {
 //        cat3.getCat("Tisa",1);
 
 
-        Rect rect = new Rect();
-        rect.getRect(25.69,12.5);
-
-        Rect rect1 =new Rect();
-        rect1.length=25.2;
-        rect1.width=14.5;
-
-        System.out.println();
+//        Rect rect = new Rect();
+//        rect.getRect(25.69,12.5);
+//
+//        Rect rect1 =new Rect();
+//        rect1.length=25.2;
+//        rect1.width=14.5;
+//
+//        System.out.println();
 //        System.out.println(rect1.ariaRect());;
-        rect1.getAria();
+//        rect1.getAria();
 
 
 //        Square square1 =new Square();
