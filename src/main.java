@@ -6,8 +6,20 @@ public class main {
 //        box.showBox();
 //        box1.showBox();
 
-        Worker worker=new Worker("andy","director",125.25);
-        worker.showInfo();
+//        Worker worker = new Worker("andy", "director", 125.25);
+//        worker.showInfo();
+
+
+//        Cat cat = new Cat("Dik", 2);
+//        cat.showCat();
+//
+//        System.out.println();
+//        Cat cat1 = new Cat("Nik", 3);
+//        cat1.showCat();
+//
+//        System.out.println();
+//        Cat cat3 = new Cat("Liza", 5);
+//        cat3.showCat();
 
 //        Person human1 = new Person();
 //        human1.name = " Александр ";
@@ -48,19 +60,7 @@ public class main {
 //        System.out.println(test.sqr(50));
 //        System.out.println(test.sqr(142));
 
-//        System.out.println();
-//        Cat cat = new Cat();
-//        cat.getCat("Nik", 25);
-//
-//        System.out.println();
-//
-//        Cat cat1= new Cat();
-//        cat1.getCat("Boby",5);
-//
-//        System.out.println();
-//
-//        Cat cat3 =new Cat();
-//        cat3.getCat("Tisa",1);
+
 
 
 //        Rect rect = new Rect();

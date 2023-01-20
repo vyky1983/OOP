@@ -1,8 +1,18 @@
 public class Cat {
+    String name;
+    int age;
 
-    void getCat(String name, int age){
-        String inf= "Name cat --> "+name+"\nAge --> "+age+" лет ";
-        System.out.println(inf);
+    Cat(String name, int age){
+        this.name=name;
+        this.age=age;
+    }
+
+    String getCat(){
+        return "Name cat --> "+name+"\nAge --> "+age+" лет ";
+    }
+
+    void showCat(){
+        System.out.println(getCat());
     }
 
 
