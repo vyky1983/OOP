@@ -3,10 +3,10 @@ public class Worker {
     String  post;
     double salary;
 
-    Worker(String name, String post, double salary){
-        this.name=name;
-        this.post=post;
-        this.salary=salary;
+    Worker(String name, String post, double salary) {
+        this.name = name;
+        this.post = post;
+        this.salary = salary;
     }
 
     String getWorker(){
