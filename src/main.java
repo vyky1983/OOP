@@ -86,8 +86,15 @@ public class main {
         rect1.getAria();
 
 
-
-
+//        Square square1 =new Square();
+//        square1.infSquare(15.25,15.25);
+//
+//        System.out.println();
+//
+//        Square sqare = new Square();
+//        sqare.length=25;
+//        sqare.width=15.3;
+//        sqare.getAria();
 
     }
 }
