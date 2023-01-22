@@ -1,4 +1,4 @@
-public class Math {
+public class Math1 {
 
    static int multiple(int a, int b) {
         return a * b;

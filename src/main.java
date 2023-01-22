@@ -72,7 +72,7 @@ public class main {
 //        sqare.width=15.3;
 //        sqare.getAria();
 
-//        Math math= new Math();
-        System.out.println(Math.multiple(4));
+//        Math1 math= new Math1();
+        System.out.println(Math1.multiple(4));
     }
 }
