@@ -97,10 +97,23 @@ public class main {
 //
 //        System.out.println((pip.age + pip1.age + pip2.age + pip3.age) / 4);
 
-        Task2_Box box = new Task2_Box();
-        box.height = 20;
-        box.width = 30;
-        box.length = 60;
-        box.showBox();
+//        Task2_Box box = new Task2_Box();
+//        box.height = 20;
+//        box.width = 30;
+//        box.length = 60;
+//        box.showBox();
+
+//        Task3_Dog dog =new Task3_Dog();
+//        dog.name="Dik";
+//        dog.breed="Taxa";
+//        dog.weight=5.3;
+//        dog.speed=6;
+//
+//
+//        dog.showDog();
+//        System.out.println("---------->");
+//        dog.ranDog();
+
+
     }
 }
