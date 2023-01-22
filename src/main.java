@@ -97,6 +97,10 @@ public class main {
 //
 //        System.out.println((pip.age + pip1.age + pip2.age + pip3.age) / 4);
 
-
+        Task2_Box box = new Task2_Box();
+        box.height = 20;
+        box.width = 30;
+        box.length = 60;
+        box.showBox();
     }
 }
