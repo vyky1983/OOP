@@ -1,5 +1,6 @@
 public class main {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 //        Box box = new Box(10, 10, 10);
 //        Box box1 = new Box(20, 20, 20);
 //
@@ -113,8 +114,18 @@ public class main {
 //        dog.showDog();
 //        System.out.println("---------->");
 //        dog.ranDog();
+//
+//        Task4_Test test = new Task4_Test();
+//        System.out.println(test.sqr(45, 15));
 
-        Task4_Test test = new Task4_Test();
-        System.out.println(test.sqr(45, 15));
+        Task5_Rectangle rect =new Task5_Rectangle();
+        rect.getRect(12.25,58.12);
+
+        Task5_Rectangle rect1=new Task5_Rectangle();
+        rect1.length=14.25;
+        rect1.width=45.3;
+        System.out.println("---------------->");
+        rect1.area();
+
     }
 }
