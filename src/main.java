@@ -114,6 +114,7 @@ public class main {
 //        System.out.println("---------->");
 //        dog.ranDog();
 
-
+        Task4_Test test = new Task4_Test();
+        System.out.println(test.sqr(45, 15));
     }
 }
