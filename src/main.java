@@ -75,6 +75,28 @@ public class main {
 //        Math1 math= new Math1();
 //        System.out.println(Math1.multiple(4));
 
+//        Task1_people pip = new Task1_people();
+//        pip.name = "Alex";
+//        pip.age = 44;
+//        pip.weight = 80.2;
+//
+//        Task1_people pip1 = new Task1_people();
+//        pip1.name = "Vyky";
+//        pip1.age = 39;
+//        pip1.weight = 71.1;
+//
+//        Task1_people pip2 = new Task1_people();
+//        pip2.name = "Andy";
+//        pip2.age = 15;
+//        pip2.weight = 65.2;
+//
+//        Task1_people pip3 = new Task1_people();
+//        pip3.name = "Alex1";
+//        pip3.age = 4;
+//        pip3.weight = 25.5;
+//
+//        System.out.println((pip.age + pip1.age + pip2.age + pip3.age) / 4);
+
 
     }
 }
