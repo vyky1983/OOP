@@ -129,7 +129,12 @@ public class main {
 //        System.out.println(Math2.multiple(45));
 //        System.out.println(Math2.multiple(45.3,58.4));
 //        System.out.println(Math2.multiple(48,69));
-        System.out.println(Math.sqrt(49));
+//        System.out.println(Math.sqrt(49));
+//        System.out.println(Math.min(58.69,69.85));
+
+       Task3_5 task =new Task3_5();
+        System.out.println(task.multiple(5));
+
     }
 
 
