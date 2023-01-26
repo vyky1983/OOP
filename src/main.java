@@ -132,8 +132,10 @@ public class main {
 //        System.out.println(Math.sqrt(49));
 //        System.out.println(Math.min(58.69,69.85));
 
-       Task3_5 task =new Task3_5();
-        System.out.println(task.multiple(5));
+//       Task3_5 task =new Task3_5();
+//        System.out.println(task.multiple(250));
+
+        System.out.println(Task3_5.multiple(54  ));
 
     }
 
