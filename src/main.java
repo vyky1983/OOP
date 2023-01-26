@@ -135,7 +135,20 @@ public class main {
 //       Task3_5 task =new Task3_5();
 //        System.out.println(task.multiple(250));
 
-        System.out.println(Task3_5.multiple(54  ));
+//        System.out.println(Task3_5.multiple(54  ));
+
+//        Box box5=new Box(25.3);
+//        box5.showBox();
+
+        Monster mon= new Monster();
+        mon.voice();
+        System.out.println("---------->");
+        mon.voice(3);
+        System.out.println("---------->");
+        mon.voice(2, "Aaaa...");
+
+
+
 
     }
 
