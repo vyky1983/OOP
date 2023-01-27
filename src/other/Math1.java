@@ -1,3 +1,5 @@
+package other;
+
 public class Math1 {
 
    static int multiple(int a, int b) {

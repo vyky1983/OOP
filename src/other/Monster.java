@@ -1,3 +1,5 @@
+package other;
+
 public class Monster {
     int eyes;
     int hands;

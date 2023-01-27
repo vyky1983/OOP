@@ -1,3 +1,5 @@
+package task;
+
 public class Task3_Dog {
     String name;
     String breed;

@@ -1,3 +1,5 @@
+package task;
+
 public class Task3_5 {
    static int multiple(int a, int b) {
         return a * b;

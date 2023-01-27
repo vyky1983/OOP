@@ -1,3 +1,5 @@
+package other;
+
 import java.math.MathContext;
 
 public class Math2 {

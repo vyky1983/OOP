@@ -1,3 +1,5 @@
+package animales;
+
 public class Dog {
 String name;
 String breed;
@@ -12,7 +14,7 @@ int speed;
     }
 
 String getDog(){
-    return "Name Dog --> "+ name+"\nBreed dog --> "+breed+"\nWeight Dog --> "+weight+"kg.";
+    return "Name animales.Dog --> "+ name+"\nBreed dog --> "+breed+"\nWeight animales.Dog --> "+weight+"kg.";
 }
 void showDog(){
     System.out.println(getDog());

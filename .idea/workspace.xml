@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d1cff03-0875-4569-8c44-b70ae4b5ad52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/Math3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/box/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animales/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Math1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Math1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Math2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Math2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_people.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task1_people.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2_Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task2_Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task3_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3_Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task3_Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task4_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task4_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task5_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/Task5_Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +50,18 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="test.main" />
       <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />

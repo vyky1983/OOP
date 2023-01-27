@@ -1,3 +1,4 @@
+package box;
 public class Box {
     double length;
     double width;
@@ -24,7 +25,7 @@ public class Box {
         this.width = width;
     }
 
-    void compare(Box another) {
+    void compare( Box another) {
         double currentVolume = getVolume();
         double anotherVolume = another.getVolume();
         if (currentVolume > anotherVolume) {
